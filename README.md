@@ -1,4 +1,4 @@
-### Hello, world!! Eu sou o Fernando Santos
+### Hello, world!! Eu sou um estudante de programação.
 
 - 🔭 Estou em busca do meu primeiro emprego
 - 🌱 Estudando Javascript
