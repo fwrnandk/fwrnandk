@@ -1,6 +1,4 @@
 ### Hello, world!! Eu sou um estudante de programação.
 
-- 🔭 Estou em busca do meu primeiro emprego
-- 🌱 Estudando Javascript
-- 😄 Pronouns: ele/dele
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fwrnandk&show_icons=true)
 
