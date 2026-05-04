@@ -5,14 +5,35 @@ Desenvolvedor focado na interseção entre **desenvolvimento web** e **inteligê
 
 ---
 
-## 🚀 Tecnologias
+## 🛠️ Tecnologias
 
-<p align="center">
+### 💻 Front-end
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,py,django,cs,dotnet,nodejs,java,spring,php,postgres,mysql,firebase,aws,docker,git,postman,figma,flutter" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css" />
   </a>
 </p>
 
+### ⚙️ Back-end
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,django,cs,dotnet,nodejs,java,spring,php" />
+  </a>
+</p>
+
+### 🗄️ Banco de Dados & Nuvem
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,firebase,aws" />
+  </a>
+</p>
+
+### 🧰 Ferramentas & Design
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,git,postman,figma,flutter" />
+  </a>
+</p>
 
 ---
 
